@@ -1,3 +1,13 @@
 .navbar {
   background-color: #333;
 }
+nav {
+  background-color: blue;
+}
+footer {
+  right: 0;
+}
+.column {
+     width:300px;
+     float:left
+}
